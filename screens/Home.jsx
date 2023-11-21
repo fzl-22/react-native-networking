@@ -7,7 +7,7 @@ import {
   StyleSheet,
   TouchableOpacity,
 } from 'react-native';
-import Separator from '../components/separator';
+import Separator from '../components/Separator';
 
 const Home = ({ navigation }) => {
   return (

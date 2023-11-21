@@ -2,11 +2,11 @@ import React from "react";
 import { StatusBar } from "react-native";
 import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import { NavigationContainer } from "@react-navigation/native";
-import Home from "./screens/home";
-import FunctionalComponent from "./screens/functional_component";
-import ClassComponent from "./screens/class_component";
-import News from "./screens/news";
-import NewsDetail from "./screens/news_detail";
+import Home from "./screens/Home";
+import FunctionalComponent from "./screens/FunctionalComponent";
+import ClassComponent from "./screens/ClassComponent";
+import News from "./screens/News";
+import NewsDetail from "./screens/NewsDetail";
 
 const Stack = createNativeStackNavigator();
 

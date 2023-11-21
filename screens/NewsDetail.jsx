@@ -7,8 +7,8 @@ import {
   Dimensions,
   Linking,
 } from 'react-native';
-import Separator from '../components/separator';
-import Button from '../components/button';
+import Separator from '../components/Separator';
+import Button from '../components/Button';
 
 const windowWidth = Dimensions.get('window').width;
 
